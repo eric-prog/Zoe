@@ -1,17 +1,17 @@
 #### Dependencies (Mac Installations):
 
-pip3 install speechrecognition
-pip3 install gTTS
-pip3 install playsound
-brew install portaudio 
-pip3 install pyaudio
-pip3 install selenium
-brew install --cask chromedriver
+pip3 install speechrecognition <br/>
+pip3 install gTTS <br/>
+pip3 install playsound <br/>
+brew install portaudio <br/>
+pip3 install pyaudio <br/>
+pip3 install selenium <br/>
+brew install --cask chromedriver 
 
 
 #### Python EXE Executable
-pip3 install pyinstaller 
-pip3 install auto-py-to-exe
+pip3 install pyinstaller <br/>
+pip3 install auto-py-to-exe <br/>
 
 #### NOTE
 
